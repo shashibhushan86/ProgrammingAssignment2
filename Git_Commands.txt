@@ -1,0 +1,31 @@
+shashibhushan86
+Surajpuja1986
+https://github.com/shashibhushan86/Data-Science-Assignments-Shashi-Bhushan
+
+
+
+git config --global user.name "shashibhushan86"
+git config --global user.email "shashibhushan86@yahoo.com"
+git config --list
+cd /c/Users/shashibhushan86/Desktop/
+mkdir GIT_Repo
+cd GIT_Repo
+pwd
+
+cd /c/Users/shashibhushan86/Desktop/GIT_datasciencecoursera
+
+git pull https://github.com/shashibhushan86/Data-Science-Assignments-Shashi-Bhushan.git
+git add .
+git commit -m "Test"
+
+git push --set-upstream https://github.com/shashibhushan86/Data-Science-Assignments-Shashi-Bhushan.git master
+Username for 'https://github.com': shashibhushan86
+Password for 'https://shashibhushan86@github.com':
+Counting objects: 8, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (8/8), 758 bytes | 0 bytes/s, done.
+Total 8 (delta 0), reused 0 (delta 0)
+To https://github.com/shashibhushan86/Data-Science-Assignments-Shashi-Bhushan.git
+   43b053d..abd5585  master -> master
+Branch master set up to track remote branch master from https://github.com/shashibhushan86/Data-Science-Assignments-Shashi-Bhushan.git.
